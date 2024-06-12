@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Matias Roldan on 10/06/2024.
+  
+*/
+
+"low" = "Min";
+"high" = "Max";
+"wind" = "Viento";
+"error_message" = "Se ha producido un error al obtener los datos.";
+"close" = "Cerrar";
